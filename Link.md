@@ -1,6 +1,6 @@
 ### http://www.hikmetokumus.com/makale/16/csharp-ile-folderbrowserdialog-kullanimi
 Folder browser komputerde papka kimi siralanan goruntunu yaratmaqdir
-### http://delphi-faq.ru/palitra-komponentov-delphi/vizyalnie-biblioteki-vcl/fontdialog-dialogovoe-okno-vybora-parametrov-shrifta.html
+### http://subscribe.ru/archive/comp.soft.prog.csharplessons/200611/20115753.html/
 Font dialog adinnanda melum oldugu kimi font secmekdi
 ### http://www.gorselprogramlama.com/groupboxin-ozellikleri-c-net-ders-17/
 Group Box obyektleri gruplawdirmaq ucun istifade olunur
